@@ -43,6 +43,7 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.logincloseButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
@@ -196,11 +197,25 @@
             this.label1.TabIndex = 21;
             this.label1.Text = "Company Dashbboard";
             // 
-            // Form2
+            // logincloseButton
+            // 
+            this.logincloseButton.BackColor = System.Drawing.Color.Maroon;
+            this.logincloseButton.Font = new System.Drawing.Font("Microsoft Tai Le", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.logincloseButton.ForeColor = System.Drawing.Color.White;
+            this.logincloseButton.Location = new System.Drawing.Point(622, 12);
+            this.logincloseButton.Name = "logincloseButton";
+            this.logincloseButton.Size = new System.Drawing.Size(45, 25);
+            this.logincloseButton.TabIndex = 62;
+            this.logincloseButton.Text = "X";
+            this.logincloseButton.UseVisualStyleBackColor = false;
+            this.logincloseButton.Click += new System.EventHandler(this.logincloseButton_Click);
+            // 
+            // clientpersonal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(679, 445);
+            this.Controls.Add(this.logincloseButton);
             this.Controls.Add(this.dataGridView9);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.dataGridView7);
@@ -217,7 +232,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form2";
+            this.Name = "clientpersonal";
             this.Text = "Form2";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView7)).EndInit();
@@ -247,5 +262,6 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button logincloseButton;
     }
 }

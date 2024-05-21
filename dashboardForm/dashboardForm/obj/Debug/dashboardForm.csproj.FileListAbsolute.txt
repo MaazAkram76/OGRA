@@ -57,3 +57,38 @@ D:\dashboardForm\dashboardForm\obj\Debug\ProjectDB.Form1.resources
 D:\dashboardForm\dashboardForm\obj\Debug\otherDashboards.clientpersonal.resources
 D:\dashboardForm\dashboardForm\obj\Debug\otherDashboards.complaintpersonal.resources
 D:\dashboardForm\dashboardForm\obj\Debug\otherDashboards.employeepresonal.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\bin\Debug\dashboardForm.exe.config
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\bin\Debug\dashboardForm.exe
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\bin\Debug\dashboardForm.pdb
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.csproj.AssemblyReference.cache
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.adddptForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.addlicenseForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ograforms.login.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.alotdptDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ProjectDB.clientlogin.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\otherDashboards.clientpersonal.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ProjectDB.clientregistration.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.companyDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.complaintDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ProjectDB.complaintlogin.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\otherDashboards.complaintpersonal.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ProjectDB.complaintregistration.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.departmentDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.employeeDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ProjectDB.employeelogin.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\otherDashboards.employeepresonal.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\registrationForm.employeeregistration.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\ProjectDB.Form1.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.homeDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.licenseDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.priceDashboard.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.Properties.Resources.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.searchcompanyForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.searchcomplaintForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.searchempForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.searchlicenseForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.updatePriceForm.resources
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.csproj.GenerateResource.cache
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.csproj.CoreCompileInputs.cache
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.exe
+C:\Users\MISBAH\OneDrive\Desktop\OGRA Project\dashboardForm\dashboardForm\obj\Debug\dashboardForm.pdb

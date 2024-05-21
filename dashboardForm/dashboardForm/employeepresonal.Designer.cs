@@ -49,6 +49,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.dataGridView10 = new System.Windows.Forms.DataGridView();
             this.label11 = new System.Windows.Forms.Label();
+            this.logincloseButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
@@ -262,12 +263,26 @@
             this.label11.TabIndex = 19;
             this.label11.Text = "Department:";
             // 
+            // logincloseButton
+            // 
+            this.logincloseButton.BackColor = System.Drawing.Color.Maroon;
+            this.logincloseButton.Font = new System.Drawing.Font("Microsoft Tai Le", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.logincloseButton.ForeColor = System.Drawing.Color.White;
+            this.logincloseButton.Location = new System.Drawing.Point(622, 12);
+            this.logincloseButton.Name = "logincloseButton";
+            this.logincloseButton.Size = new System.Drawing.Size(45, 25);
+            this.logincloseButton.TabIndex = 62;
+            this.logincloseButton.Text = "X";
+            this.logincloseButton.UseVisualStyleBackColor = false;
+            this.logincloseButton.Click += new System.EventHandler(this.logincloseButton_Click);
+            // 
             // employeepresonal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(679, 483);
+            this.Controls.Add(this.logincloseButton);
             this.Controls.Add(this.dataGridView10);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.dataGridView9);
@@ -330,6 +345,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.DataGridView dataGridView10;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Button logincloseButton;
     }
 }
 

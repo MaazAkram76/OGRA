@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dashboardForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\complaintlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\complaintlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|d:\\dashboardform\\dashboardform\\complaintpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\complaintpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\clientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\clientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|d:\\dashboardform\\dashboardform\\clientpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\clientpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|d:\\dashboardform\\dashboardform\\employeepresonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\employeepresonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\employeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\employeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\homedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\homedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|d:\\dashboardform\\dashboardform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\searchcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\searchcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\updatepriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\updatepriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\licensedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\licensedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\companydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\companydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\searchempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\searchempform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\departmentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\departmentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\searchcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\searchcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\adddptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\adddptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\pricedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\pricedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\searchlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\searchlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\addlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\addlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\complaintdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\complaintdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|d:\\dashboardform\\dashboardform\\alotdptdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\alotdptdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\complaintregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\complaintregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\employeeregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\employeeregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|D:\\dashboardForm\\dashboardform\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FBEB318-1710-4DF8-A147-2A38A487C095}|dashboardForm\\dashboardForm.csproj|solutionrelative:dashboardform\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\Form1.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\Form1.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\Form1.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:20:30.159Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminlogin.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\adminlogin.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\adminlogin.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\adminlogin.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\adminlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:21:44.013Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "employeelogin.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\employeelogin.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\employeelogin.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\employeelogin.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\employeelogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:30:11.183Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "employeeregistration.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\employeeregistration.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\employeeregistration.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\employeeregistration.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\employeeregistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:30:59.316Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clientlogin.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\clientlogin.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\clientlogin.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\clientlogin.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\clientlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:22:24.754Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clientregistration.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\clientregistration.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\clientregistration.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\clientregistration.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\clientregistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:24:00.171Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "complaintlogin.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\complaintlogin.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\complaintlogin.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\complaintlogin.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\complaintlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:28:49.862Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "complaintregistration.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\complaintregistration.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\complaintregistration.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\complaintregistration.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\complaintregistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:29:22.473Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "homeDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\homeDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\homeDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\homeDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\homeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:46:42.075Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "employeeDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\employeeDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\employeeDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\employeeDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\employeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:44:59.969Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "alotdptDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\alotdptDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\alotdptDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\alotdptDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\alotdptDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:59:13.699Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "searchempForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\searchempForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\searchempForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\searchempForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\searchempForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:43:40.005Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "departmentDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\departmentDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\departmentDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\departmentDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\departmentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:45:02.675Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adddptForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\adddptForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\adddptForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\adddptForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\adddptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:12:42.468Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "complaintDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\complaintDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\complaintDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\complaintDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\complaintDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:17:25.67Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "searchcomplaintForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\searchcomplaintForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\searchcomplaintForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\searchcomplaintForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\searchcomplaintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:22:44.713Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "companyDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\companyDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\companyDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\companyDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\companyDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:45:05.349Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "searchcompanyForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\searchcompanyForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\searchcompanyForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\searchcompanyForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\searchcompanyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:54:03.703Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "priceDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\priceDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\priceDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\priceDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\priceDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:44:42.571Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "updatePriceForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\updatePriceForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\updatePriceForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\updatePriceForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\updatePriceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:18.922Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "licenseDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\licenseDashboard.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\licenseDashboard.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\licenseDashboard.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\licenseDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:21:10.584Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "addlicenseForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\addlicenseForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\addlicenseForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\addlicenseForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\addlicenseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:02:03.585Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "searchlicenseForm.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\searchlicenseForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\searchlicenseForm.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\searchlicenseForm.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\searchlicenseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:17:21.295Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\Program.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\Program.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\Program.cs",
+              "RelativeToolTip": "dashboardForm\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:58:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employeepresonal.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\employeepresonal.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\employeepresonal.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\employeepresonal.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\employeepresonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:42:03.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "complaintpersonal.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\complaintpersonal.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\complaintpersonal.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\complaintpersonal.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\complaintpersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:41:31.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clientpersonal.cs [Design]",
+              "DocumentMoniker": "D:\\dashboardForm\\dashboardForm\\clientpersonal.cs",
+              "RelativeDocumentMoniker": "dashboardForm\\clientpersonal.cs",
+              "ToolTip": "D:\\dashboardForm\\dashboardForm\\clientpersonal.cs [Design]",
+              "RelativeToolTip": "dashboardForm\\clientpersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:41:01.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
